@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://pumpfundata.com/docs
 common:
+  - type: DomainSecurity
+    url: security/pumpfundata-domain-security.yml
   - type: Website
     url: https://pumpfundata.com/docs
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://pumpfundata.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
