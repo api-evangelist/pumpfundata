@@ -39,7 +39,6 @@ apis:
   - name: PumpFunData
     description: "Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files"
     humanURL: https://pumpfundata.com/docs
-    baseURL: https://pumpfundata.com/docs
     tags:
       - Cryptocurrency
     properties:
